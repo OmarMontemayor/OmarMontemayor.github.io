@@ -1,11 +1,11 @@
 # Site settings
 author: Omar Montemayor
-title: 
+title: Why I Decided to Become a Software Engineer
 header-img: img/home-bg.png
 email: omarmontemayor11@yahoo.com
 copyright_name: Omar Montemayor
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Jack of all trades
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  OmarMontemayor
